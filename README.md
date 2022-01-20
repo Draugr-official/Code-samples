@@ -1,4 +1,4 @@
-# parser-things
+# Code Samples
 Basic tests for parsers and compilers including
 
 * Functions
